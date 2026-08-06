@@ -1,0 +1,6 @@
+{
+  "name": "فروشگاه مواد غذایی گرین‌مارکت (GreenMarket)",
+  "description": "فروشگاه آنلاین مواد غذایی با مگامنو هاور، سئوی پیشرفته، اسلایدر محصولات، تم ارگانیک شیک و دانلود سورس کد Next.js و C# API",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
